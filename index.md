@@ -1,8 +1,5 @@
 ## Oliver Pennery
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Hi I'm currently a MSci undergrad student and a teaching assistant at the the University of Bristol.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OliverPennery/OliverPennery.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+You can find a my linkedin [Here](linkedin.com/in/oliverpennery)
