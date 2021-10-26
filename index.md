@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Oliver Pennery
 
 You can use the [editor on GitHub](https://github.com/OliverPennery/OliverPennery.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
